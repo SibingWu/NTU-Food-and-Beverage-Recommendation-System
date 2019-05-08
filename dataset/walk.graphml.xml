@@ -1,0 +1,1269 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="long" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="Food Court 1" />
+    <node id="Food Court 2" />
+    <node id="Food Court 9" />
+    <node id="Food Court 11" />
+    <node id="Food Court 13" />
+    <node id="Food Court 14" />
+    <node id="Food Court 16" />
+    <node id="Foodgle Food Court" />
+    <node id="North Hill Food Court" />
+    <node id="Pioneer Food Court" />
+    <node id="North Spine Food Court" />
+    <node id="Peach Garden Chinese Restaurant" />
+    <node id="Pizza Hut Express" />
+    <node id="Subway" />
+    <node id="Koufu @ the South Spine" />
+    <node id="Hall 16" />
+    <node id="Hall 3" />
+    <node id="Hall 12" />
+    <node id="Hall 13" />
+    <node id="Hall 14" />
+    <node id="Hall 15" />
+    <node id="New Hall" />
+    <node id="North Hill Hall" />
+    <node id="Hall 10" />
+    <node id="Hall 9" />
+    <node id="Hall 8" />
+    <node id="Hall 11" />
+    <node id="ADM" />
+    <node id="Hall 2" />
+    <node id="Hall 1" />
+    <node id="Hall 6" />
+    <node id="SRC" />
+    <node id="C&amp;P Hall" />
+    <node id="Hall 5" />
+    <node id="Hall 4" />
+    <node id="CHC" />
+    <node id="Hive" />
+    <node id="SPMS" />
+    <node id="Hall 7" />
+    <node id="EEE1" />
+    <node id="EEE2" />
+    <node id="WKW" />
+    <node id="Unknown" />
+    <node id="Medi School" />
+    <node id="SBS" />
+    <node id="Nanyang Audi" />
+    <node id="SS" />
+    <node id="CEE" />
+    <node id="Earth" />
+    <node id="SCSE" />
+    <node id="MAE" />
+    <node id="NS" />
+    <node id="NS Plaza" />
+    <node id="North Hill Food Cour" />
+    <edge source="Food Court 1" target="Hall 1">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="Food Court 2" target="Hall 2">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="Food Court 9" target="Hall 9">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="Food Court 13" target="Hall 13">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="Food Court 14" target="Hall 14">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="Food Court 16" target="Hall 16">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="Foodgle Food Court" target="New Hall">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="Pioneer Food Court" target="C&amp;P Hall">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="North Spine Food Court" target="NS Plaza">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="Peach Garden Chinese Restaurant" target="NS Plaza">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="Subway" target="NS Plaza">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="Koufu @ the South Spine" target="SPMS">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="Hall 16" target="Hall 3">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hall 16" target="Hall 12">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hall 16" target="Hall 13">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Hall 16" target="Hall 14">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hall 16" target="Hall 15">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Hall 16" target="New Hall">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 16" target="North Hill Hall">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Hall 16" target="Hall 10">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hall 16" target="Hall 9">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hall 16" target="Hall 8">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Hall 16" target="Hall 11">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Hall 16" target="ADM">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 16" target="Hall 2">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Hall 16" target="Hall 1">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hall 16" target="Hall 6">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hall 16" target="SRC">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Hall 16" target="C&amp;P Hall">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Hall 16" target="Hall 5">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="Hall 16" target="Hall 4">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="Hall 16" target="CHC">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="Hall 16" target="Hive">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Hall 16" target="SPMS">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Hall 16" target="Hall 7">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Hall 16" target="EEE1">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Hall 16" target="EEE2">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hall 16" target="WKW">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Hall 16" target="Unknown">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hall 16" target="Medi School">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hall 16" target="SBS">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hall 16" target="Nanyang Audi">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hall 16" target="SS">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Hall 16" target="CEE">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Hall 16" target="Earth">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 16" target="SCSE">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Hall 16" target="MAE">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 16" target="NS">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Hall 16" target="NS Plaza">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 3" target="Hall 12">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Hall 3" target="Hall 13">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hall 3" target="Hall 14">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hall 3" target="Hall 15">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Hall 3" target="New Hall">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Hall 3" target="North Hill Hall">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="Hall 3" target="Hall 10">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Hall 3" target="Hall 9">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Hall 3" target="Hall 8">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="Hall 3" target="Hall 11">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="Hall 12" target="Hall 13">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hall 12" target="Hall 14">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hall 12" target="Hall 15">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Hall 12" target="New Hall">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Hall 12" target="North Hill Hall">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="Hall 12" target="Hall 10">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Hall 12" target="Hall 9">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Hall 12" target="Hall 8">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="Hall 12" target="Hall 11">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="Hall 13" target="Hall 14">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Hall 13" target="Hall 15">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Hall 13" target="New Hall">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Hall 13" target="North Hill Hall">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 13" target="Hall 10">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="Hall 13" target="Hall 9">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="Hall 13" target="Hall 8">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 13" target="Hall 11">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 14" target="Hall 15">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hall 14" target="New Hall">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hall 14" target="North Hill Hall">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Hall 14" target="Hall 10">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Hall 14" target="Hall 9">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Hall 14" target="Hall 8">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Hall 14" target="Hall 11">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Hall 14" target="ADM">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 14" target="Hall 2">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Hall 14" target="Hall 1">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hall 14" target="Hall 6">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hall 14" target="SRC">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Hall 14" target="C&amp;P Hall">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Hall 14" target="Hall 5">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Hall 14" target="Hall 4">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="Hall 15" target="New Hall">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Hall 15" target="North Hill Hall">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="New Hall" target="North Hill Hall">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="New Hall" target="Hall 10">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="New Hall" target="Hall 9">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="New Hall" target="Hall 8">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="New Hall" target="Hall 11">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="New Hall" target="ADM">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="New Hall" target="Hall 2">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="New Hall" target="Hall 1">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="New Hall" target="Hall 6">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="New Hall" target="SRC">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="New Hall" target="C&amp;P Hall">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="New Hall" target="Hall 5">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="New Hall" target="Hall 4">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="New Hall" target="CHC">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="New Hall" target="Hive">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="New Hall" target="SPMS">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="New Hall" target="Hall 7">
+      <data key="d0">27</data>
+    </edge>
+    <edge source="New Hall" target="EEE1">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="New Hall" target="EEE2">
+      <data key="d0">23</data>
+    </edge>
+    <edge source="New Hall" target="WKW">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="New Hall" target="Unknown">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="New Hall" target="Medi School">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="New Hall" target="SBS">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="New Hall" target="Nanyang Audi">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="New Hall" target="SS">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="New Hall" target="CEE">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="New Hall" target="Earth">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="New Hall" target="SCSE">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="New Hall" target="MAE">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="New Hall" target="NS">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="New Hall" target="NS Plaza">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="North Hill Hall" target="North Hill Food Cour">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="North Hill Hall" target="Hall 10">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="North Hill Hall" target="Hall 9">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="North Hill Hall" target="Hall 8">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="North Hill Hall" target="Hall 11">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="North Hill Hall" target="ADM">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="North Hill Hall" target="Hall 2">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="North Hill Hall" target="Hall 1">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="North Hill Hall" target="Hall 6">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="North Hill Hall" target="SRC">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="North Hill Hall" target="C&amp;P Hall">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="North Hill Hall" target="Hall 5">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="North Hill Hall" target="Hall 4">
+      <data key="d0">19</data>
+    </edge>
+    <edge source="North Hill Hall" target="CHC">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="North Hill Hall" target="Hive">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="North Hill Hall" target="SPMS">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="North Hill Hall" target="Hall 7">
+      <data key="d0">27</data>
+    </edge>
+    <edge source="North Hill Hall" target="EEE1">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="North Hill Hall" target="EEE2">
+      <data key="d0">23</data>
+    </edge>
+    <edge source="North Hill Hall" target="WKW">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="North Hill Hall" target="Unknown">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="North Hill Hall" target="Medi School">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="North Hill Hall" target="SBS">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="North Hill Hall" target="Nanyang Audi">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="North Hill Hall" target="SS">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="North Hill Hall" target="CEE">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="North Hill Hall" target="Earth">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="North Hill Hall" target="SCSE">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="North Hill Hall" target="MAE">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="North Hill Hall" target="NS">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="North Hill Hall" target="NS Plaza">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Hall 9" target="Hall 8">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hall 9" target="Hall 11">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hall 9" target="ADM">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hall 9" target="Hall 2">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hall 9" target="Hall 1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Hall 9" target="Hall 6">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Hall 9" target="SRC">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Hall 9" target="C&amp;P Hall">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Hall 9" target="Hall 5">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="Hall 9" target="Hall 4">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hall 9" target="CHC">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Hall 9" target="Hive">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Hall 9" target="SPMS">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Hall 9" target="Hall 7">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="Hall 9" target="EEE1">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="Hall 9" target="EEE2">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="Hall 9" target="WKW">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="Hall 9" target="Unknown">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Hall 9" target="Medi School">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Hall 9" target="SBS">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Hall 9" target="Nanyang Audi">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Hall 9" target="SS">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="Hall 9" target="CEE">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Hall 9" target="Earth">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Hall 9" target="SCSE">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Hall 9" target="MAE">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hall 9" target="NS">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Hall 9" target="NS Plaza">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hall 8" target="ADM">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Hall 8" target="Hall 2">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Hall 8" target="Hall 1">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hall 8" target="Hall 6">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hall 8" target="SRC">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Hall 8" target="C&amp;P Hall">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Hall 8" target="Hall 5">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="Hall 8" target="Hall 4">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hall 8" target="CHC">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Hall 8" target="Hive">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Hall 8" target="SPMS">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Hall 8" target="Hall 7">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="Hall 8" target="EEE1">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="Hall 8" target="EEE2">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="Hall 8" target="WKW">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="Hall 8" target="Unknown">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Hall 8" target="Medi School">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Hall 8" target="SBS">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Hall 8" target="Nanyang Audi">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Hall 8" target="SS">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="Hall 8" target="CEE">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Hall 8" target="Earth">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Hall 8" target="SCSE">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Hall 8" target="MAE">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hall 8" target="NS">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Hall 8" target="NS Plaza">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="ADM" target="Hall 2">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ADM" target="Hall 1">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="ADM" target="Hall 6">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="ADM" target="SRC">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="ADM" target="C&amp;P Hall">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="ADM" target="Hall 5">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="ADM" target="Hall 4">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="ADM" target="CHC">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="ADM" target="Hive">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="ADM" target="SPMS">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="ADM" target="Hall 7">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="ADM" target="EEE1">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="ADM" target="EEE2">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="ADM" target="WKW">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="ADM" target="Unknown">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="ADM" target="Medi School">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="ADM" target="SBS">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="ADM" target="Nanyang Audi">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="ADM" target="SS">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="ADM" target="CEE">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="ADM" target="Earth">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="ADM" target="SCSE">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="ADM" target="MAE">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="ADM" target="NS">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="ADM" target="NS Plaza">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Hall 2" target="Hall 1">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hall 2" target="Hall 6">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hall 2" target="SRC">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Hall 2" target="C&amp;P Hall">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hall 2" target="Hall 5">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Hall 2" target="Hall 4">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 2" target="CHC">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 2" target="Hive">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 2" target="SPMS">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hall 2" target="Hall 7">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Hall 2" target="EEE1">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Hall 2" target="EEE2">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="Hall 2" target="WKW">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hall 2" target="Unknown">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 2" target="Medi School">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 2" target="SBS">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 2" target="Nanyang Audi">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hall 2" target="SS">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hall 2" target="CEE">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hall 2" target="Earth">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Hall 2" target="SCSE">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hall 2" target="MAE">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Hall 2" target="NS">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hall 2" target="NS Plaza">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Hall 1" target="Hall 6">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hall 1" target="SRC">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Hall 1" target="C&amp;P Hall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hall 1" target="Hall 5">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Hall 1" target="Hall 4">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Hall 1" target="CHC">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 1" target="Hive">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 1" target="SPMS">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Hall 1" target="Hall 7">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hall 1" target="EEE1">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Hall 1" target="EEE2">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="Hall 1" target="WKW">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hall 1" target="Unknown">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 1" target="Medi School">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 1" target="SBS">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 1" target="Nanyang Audi">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 1" target="SS">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hall 1" target="CEE">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hall 1" target="Earth">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Hall 1" target="SCSE">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hall 1" target="MAE">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Hall 1" target="NS">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hall 1" target="NS Plaza">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Hall 6" target="SRC">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hall 6" target="C&amp;P Hall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hall 5" target="Hall 4">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hall 5" target="CHC">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Hall 5" target="Hive">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hall 5" target="SPMS">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hall 5" target="Hall 7">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Hall 5" target="EEE1">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hall 5" target="EEE2">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hall 5" target="WKW">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Hall 5" target="Unknown">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 5" target="Medi School">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 5" target="SBS">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 5" target="Nanyang Audi">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 5" target="SS">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hall 5" target="CEE">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 5" target="Earth">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Hall 5" target="SCSE">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 5" target="MAE">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Hall 5" target="NS">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hall 5" target="NS Plaza">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Hall 4" target="CHC">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Hall 4" target="Hive">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hall 4" target="SPMS">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hall 4" target="Hall 7">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Hall 4" target="EEE1">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hall 4" target="EEE2">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="CHC" target="Hive">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="CHC" target="SPMS">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="CHC" target="Hall 7">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="CHC" target="EEE1">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="CHC" target="EEE2">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="CHC" target="WKW">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="CHC" target="Unknown">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="CHC" target="Medi School">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="CHC" target="SBS">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="CHC" target="Nanyang Audi">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="CHC" target="SS">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="CHC" target="CEE">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="CHC" target="Earth">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="CHC" target="SCSE">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="CHC" target="MAE">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="CHC" target="NS">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="CHC" target="NS Plaza">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Hive" target="SPMS">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hive" target="Hall 7">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hive" target="EEE1">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hive" target="EEE2">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Hive" target="WKW">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hive" target="Unknown">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Hive" target="Medi School">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Hive" target="SBS">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Hive" target="Nanyang Audi">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Hive" target="SS">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hive" target="CEE">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hive" target="Earth">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Hive" target="SCSE">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hive" target="MAE">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Hive" target="NS">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hive" target="NS Plaza">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="SPMS" target="Hall 7">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="SPMS" target="EEE1">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="SPMS" target="EEE2">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="SPMS" target="WKW">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="SPMS" target="Unknown">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SPMS" target="Medi School">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SPMS" target="SBS">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SPMS" target="Nanyang Audi">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SPMS" target="SS">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="SPMS" target="CEE">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="SPMS" target="Earth">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="SPMS" target="SCSE">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="SPMS" target="MAE">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="SPMS" target="NS">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="SPMS" target="NS Plaza">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="EEE1" target="EEE2">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="EEE2" target="WKW">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="EEE2" target="Unknown">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="EEE2" target="Medi School">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="EEE2" target="SBS">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="EEE2" target="Nanyang Audi">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="EEE2" target="SS">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="EEE2" target="CEE">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="EEE2" target="Earth">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="EEE2" target="SCSE">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="EEE2" target="MAE">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="EEE2" target="NS">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="EEE2" target="NS Plaza">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Unknown" target="Medi School">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Unknown" target="SBS">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Unknown" target="Nanyang Audi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Unknown" target="SS">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Unknown" target="CEE">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Unknown" target="Earth">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Unknown" target="SCSE">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Unknown" target="MAE">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Unknown" target="NS">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Unknown" target="NS Plaza">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Medi School" target="SBS">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Medi School" target="Nanyang Audi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SBS" target="Nanyang Audi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SS" target="CEE">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="SS" target="Earth">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SS" target="SCSE">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="SS" target="MAE">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="SS" target="NS">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="SS" target="NS Plaza">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="CEE" target="Earth">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="CEE" target="SCSE">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="CEE" target="MAE">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="CEE" target="NS">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="CEE" target="NS Plaza">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Earth" target="SCSE">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Earth" target="MAE">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Earth" target="NS">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Earth" target="NS Plaza">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SCSE" target="MAE">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="SCSE" target="NS">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SCSE" target="NS Plaza">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="MAE" target="NS">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="MAE" target="NS Plaza">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="NS" target="NS Plaza">
+      <data key="d0">3</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,388 @@
+<?xml version="1.0" ?>
+<graph>
+  <canteen>
+    <name>Food Court 1</name>
+    <location_x>560</location_x>
+    <location_y>558</location_y>
+    <ranking>2</ranking>
+    <halal>1</halal>
+    <veg>0</veg>
+    <stall>Noodle Stall</stall>
+    <stall>Korean Cuisine</stall>
+    <stall>Si Chuan Mei Shi</stall>
+  </canteen>
+  <canteen>
+    <name>Food Court 2</name>
+    <location_x>608</location_x>
+    <location_y>478</location_y>
+    <ranking>6</ranking>
+    <halal>1</halal>
+    <veg>1</veg>
+    <stall>India Food</stall>
+    <stall>Korean Cuisine</stall>
+    <stall>Kiso Japanese Cuisine</stall>
+  </canteen>
+  <canteen>
+    <name>Food Court 9</name>
+    <location_x>758</location_x>
+    <location_y>327</location_y>
+    <ranking>1</ranking>
+    <halal>1</halal>
+    <veg>1</veg>
+    <stall>India Food</stall>
+    <stall>Thai Cuisine</stall>
+    <stall>Kiso Japanese Cuisine</stall>
+  </canteen>
+  <canteen>
+    <name>Food Court 11</name>
+    <location_x>888</location_x>
+    <location_y>270</location_y>
+    <ranking>8</ranking>
+    <halal>1</halal>
+    <veg>0</veg>
+    <stall>India Food</stall>
+    <stall>Thai Cuisine</stall>
+    <stall>Kiso Japanese Cuisine</stall>
+  </canteen>
+  <canteen>
+    <name>Food Court 13</name>
+    <location_x>562</location_x>
+    <location_y>189</location_y>
+    <ranking>11</ranking>
+    <halal>1</halal>
+    <veg>0</veg>
+    <stall>Si Chuan Mei Shi</stall>
+    <stall>Thai Cuisine</stall>
+    <stall>Noodle Stall</stall>
+  </canteen>
+  <canteen>
+    <name>Food Court 14</name>
+    <location_x>652</location_x>
+    <location_y>195</location_y>
+    <ranking>9</ranking>
+    <halal>0</halal>
+    <veg>0</veg>
+    <stall>India Food</stall>
+    <stall>Korean Cuisine</stall>
+    <stall>Si Chuan Mei Shi</stall>
+  </canteen>
+  <canteen>
+    <name>Food Court 16</name>
+    <location_x>510</location_x>
+    <location_y>244</location_y>
+    <ranking>13</ranking>
+    <halal>1</halal>
+    <veg>1</veg>
+    <stall>India Food</stall>
+    <stall>Korean Cuisine</stall>
+    <stall>Noodle Stall</stall>
+  </canteen>
+  <canteen>
+    <name>Foodgle Food Court</name>
+    <location_x>830</location_x>
+    <location_y>213</location_y>
+    <ranking>5</ranking>
+    <halal>1</halal>
+    <veg>0</veg>
+    <stall>India Food</stall>
+    <stall>Si Chuan Mei Shi</stall>
+    <stall>Noodle Stall</stall>
+  </canteen>
+  <canteen>
+    <name>North Hill Food Court</name>
+    <location_x>934</location_x>
+    <location_y>377</location_y>
+    <ranking>15</ranking>
+    <halal>1</halal>
+    <veg>1</veg>
+    <stall>India Food</stall>
+    <stall>Korean Cuisine</stall>
+    <stall>Noodle Stall</stall>
+  </canteen>
+  <canteen>
+    <name>Pioneer Food Court</name>
+    <location_x>634</location_x>
+    <location_y>668</location_y>
+    <ranking>4</ranking>
+    <halal>1</halal>
+    <veg>1</veg>
+    <stall>India Food</stall>
+    <stall>Korean Cuisine</stall>
+    <stall>Thai Cuisine</stall>
+  </canteen>
+  <canteen>
+    <name>North Spine Food Court</name>
+    <location_x>332</location_x>
+    <location_y>335</location_y>
+    <ranking>10</ranking>
+    <halal>1</halal>
+    <veg>1</veg>
+    <stall>Si Chuan Mei Shi</stall>
+    <stall>Korean Cuisine</stall>
+    <stall>Thai Cuisine</stall>
+  </canteen>
+  <canteen>
+    <name>Peach Garden Chinese Restaurant</name>
+    <location_x>353</location_x>
+    <location_y>316</location_y>
+    <ranking>7</ranking>
+    <halal>0</halal>
+    <veg>1</veg>
+    <stall>Si Chuan Mei Shi</stall>
+    <stall>Korean Cuisine</stall>
+    <stall>Noodle Stall</stall>
+  </canteen>
+  <canteen>
+    <name>Pizza Hut Express</name>
+    <location_x>357</location_x>
+    <location_y>318</location_y>
+    <ranking>3</ranking>
+    <halal>0</halal>
+    <veg>1</veg>
+    <stall>Si Chuan Mei Shi</stall>
+    <stall>Korean Cuisine</stall>
+    <stall>Thai Cuisine</stall>
+  </canteen>
+  <canteen>
+    <name>Subway</name>
+    <location_x>354</location_x>
+    <location_y>336</location_y>
+    <ranking>12</ranking>
+    <halal>1</halal>
+    <veg>1</veg>
+    <stall>Si Chuan Mei Shi</stall>
+    <stall>Korean Cuisine</stall>
+    <stall>Thai Cuisine</stall>
+  </canteen>
+  <canteen>
+    <name>Koufu @ the South Spine</name>
+    <location_x>264</location_x>
+    <location_y>586</location_y>
+    <ranking>14</ranking>
+    <halal>1</halal>
+    <veg>1</veg>
+    <stall>Si Chuan Mei Shi</stall>
+    <stall>Korean Cuisine</stall>
+    <stall>Thai Cuisine</stall>
+  </canteen>
+  <stall>
+    <name>Noodle Stall</name>
+    <signature>Mixed Bee Hoon</signature>
+    <price>3</price>
+  </stall>
+  <stall>
+    <name>India Food</name>
+    <signature>Aloo Mattar Paneer</signature>
+    <price>2</price>
+  </stall>
+  <stall>
+    <name>Si Chuan Mei Shi</name>
+    <signature>Spicy Fragrant Pot</signature>
+    <price>9</price>
+  </stall>
+  <stall>
+    <name>Kiso Japanese Cuisine</name>
+    <signature>DC - Chicken Katsu Don</signature>
+    <price>3</price>
+  </stall>
+  <stall>
+    <name>Korean Cuisine</name>
+    <signature>Tomatoes &amp; Eggs</signature>
+    <price>4</price>
+  </stall>
+  <stall>
+    <name>Thai Cuisine</name>
+    <signature>Chicken Fried Noodles</signature>
+    <price>4.5</price>
+  </stall>
+  <mark>
+    <name>Hall 16</name>
+    <location_x>520</location_x>
+    <location_y>260</location_y>
+  </mark>
+  <mark>
+    <name>Hall 3</name>
+    <location_x>555</location_x>
+    <location_y>260</location_y>
+  </mark>
+  <mark>
+    <name>Hall 12</name>
+    <location_x>520</location_x>
+    <location_y>206</location_y>
+  </mark>
+  <mark>
+    <name>Hall 13</name>
+    <location_x>585</location_x>
+    <location_y>200</location_y>
+  </mark>
+  <mark>
+    <name>Hall 14</name>
+    <location_x>645</location_x>
+    <location_y>200</location_y>
+  </mark>
+  <mark>
+    <name>Hall 15</name>
+    <location_x>700</location_x>
+    <location_y>190</location_y>
+  </mark>
+  <mark>
+    <name>New Hall</name>
+    <location_x>820</location_x>
+    <location_y>215</location_y>
+  </mark>
+  <mark>
+    <name>North Hill Hall</name>
+    <location_x>885</location_x>
+    <location_y>225</location_y>
+  </mark>
+  <mark>
+    <name>Hall 10</name>
+    <location_x>820</location_x>
+    <location_y>264</location_y>
+  </mark>
+  <mark>
+    <name>Hall 9</name>
+    <location_x>753</location_x>
+    <location_y>320</location_y>
+  </mark>
+  <mark>
+    <name>Hall 8</name>
+    <location_x>685</location_x>
+    <location_y>364</location_y>
+  </mark>
+  <mark>
+    <name>Hall 11</name>
+    <location_x>890</location_x>
+    <location_y>273</location_y>
+  </mark>
+  <mark>
+    <name>ADM</name>
+    <location_x>593</location_x>
+    <location_y>383</location_y>
+  </mark>
+  <mark>
+    <name>Hall 2</name>
+    <location_x>556</location_x>
+    <location_y>457</location_y>
+  </mark>
+  <mark>
+    <name>Hall 1</name>
+    <location_x>572</location_x>
+    <location_y>646</location_y>
+  </mark>
+  <mark>
+    <name>Hall 6</name>
+    <location_x>645</location_x>
+    <location_y>567</location_y>
+  </mark>
+  <mark>
+    <name>SRC</name>
+    <location_x>719</location_x>
+    <location_y>586</location_y>
+  </mark>
+  <mark>
+    <name>C&amp;P Hall</name>
+    <location_x>635</location_x>
+    <location_y>688</location_y>
+  </mark>
+  <mark>
+    <name>Hall 5</name>
+    <location_x>521</location_x>
+    <location_y>698</location_y>
+  </mark>
+  <mark>
+    <name>Hall 4</name>
+    <location_x>464</location_x>
+    <location_y>646</location_y>
+  </mark>
+  <mark>
+    <name>CHC</name>
+    <location_x>376</location_x>
+    <location_y>598</location_y>
+  </mark>
+  <mark>
+    <name>Hive</name>
+    <location_x>304</location_x>
+    <location_y>567</location_y>
+  </mark>
+  <mark>
+    <name>SPMS</name>
+    <location_x>228</location_x>
+    <location_y>590</location_y>
+  </mark>
+  <mark>
+    <name>Hall 7</name>
+    <location_x>108</location_x>
+    <location_y>589</location_y>
+  </mark>
+  <mark>
+    <name>EEE1</name>
+    <location_x>209</location_x>
+    <location_y>524</location_y>
+  </mark>
+  <mark>
+    <name>EEE2</name>
+    <location_x>209</location_x>
+    <location_y>479</location_y>
+  </mark>
+  <mark>
+    <name>WKW</name>
+    <location_x>154</location_x>
+    <location_y>504</location_y>
+  </mark>
+  <mark>
+    <name>Unknown</name>
+    <location_x>177</location_x>
+    <location_y>452</location_y>
+  </mark>
+  <mark>
+    <name>Medi School</name>
+    <location_x>189</location_x>
+    <location_y>368</location_y>
+  </mark>
+  <mark>
+    <name>SBS</name>
+    <location_x>223</location_x>
+    <location_y>389</location_y>
+  </mark>
+  <mark>
+    <name>Nanyang Audi</name>
+    <location_x>240</location_x>
+    <location_y>437</location_y>
+  </mark>
+  <mark>
+    <name>SS</name>
+    <location_x>264</location_x>
+    <location_y>352</location_y>
+  </mark>
+  <mark>
+    <name>CEE</name>
+    <location_x>258</location_x>
+    <location_y>368</location_y>
+  </mark>
+  <mark>
+    <name>Earth</name>
+    <location_x>318</location_x>
+    <location_y>337</location_y>
+  </mark>
+  <mark>
+    <name>SCSE</name>
+    <location_x>374</location_x>
+    <location_y>421</location_y>
+  </mark>
+  <mark>
+    <name>MAE</name>
+    <location_x>421</location_x>
+    <location_y>402</location_y>
+  </mark>
+  <mark>
+    <name>NS</name>
+    <location_x>350</location_x>
+    <location_y>387</location_y>
+  </mark>
+  <mark>
+    <name>NS Plaza</name>
+    <location_x>389</location_x>
+    <location_y>348</location_y>
+  </mark>
+</graph>
