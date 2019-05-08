@@ -1,7 +1,7 @@
 # NTU-Food-and-Beverage-Recommendation-System-
-This repo serves as
+This repo serves as an archive of the Mini Project for year 1 sem 1 NTU CZ1003 Introduction to Computational Thinking.
 
-cz1003 Mini Project by Wu Sibing, Wu Ziang, and Xiao Yang
+CZ1003 Mini Project by Wu Sibing, Wu Ziang, and Xiao Yang
 
 #External package to be installed
 
